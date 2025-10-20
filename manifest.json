@@ -1,0 +1,15 @@
+{
+  "id": "farcaster-recipe-frame",
+  "name": "Daily Recipe Suggestion",
+  "description": "Shows a random main course recipe daily from The Cookie Rookie",
+  "icon": "🍳",
+  "developer": {
+    "name": "Baran Tekay",
+    "website_url": "https://thecookierookie.com",
+    "contact": "hello@thecookierookie.com"
+  },
+  "frame": {
+    "path": "/",
+    "ratio": "1:1"
+  }
+}
